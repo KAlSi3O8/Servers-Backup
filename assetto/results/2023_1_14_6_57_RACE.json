@@ -1,0 +1,498 @@
+{
+	"TrackName": "hipole_sdky_sh_kart_track",
+	"TrackConfig": "",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 7,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#010",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#024",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#128",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#333",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#555",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#606",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#738",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "hipole_rental_kart_mk1",
+			"Skin": "CKSS#777",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "ZhonyC",
+			"DriverGuid": "76561198177899721",
+			"CarId": 0,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 52927,
+			"TotalTime": 177869,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 1,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 2,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 3,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 4,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 5,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 6,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 7,
+			"CarModel": "hipole_rental_kart_mk1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "ZhonyC",
+			"DriverGuid": "76561198177899721",
+			"CarId": 0,
+			"CarModel": "hipole_rental_kart_mk1",
+			"Timestamp": 2136054,
+			"LapTime": 60821,
+			"Sectors": [
+				15547,
+				33682,
+				11592
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "H",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ZhonyC",
+			"DriverGuid": "76561198177899721",
+			"CarId": 0,
+			"CarModel": "hipole_rental_kart_mk1",
+			"Timestamp": 2200178,
+			"LapTime": 64127,
+			"Sectors": [
+				22237,
+				20025,
+				21865
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "H",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ZhonyC",
+			"DriverGuid": "76561198177899721",
+			"CarId": 0,
+			"CarModel": "hipole_rental_kart_mk1",
+			"Timestamp": 2253105,
+			"LapTime": 52927,
+			"Sectors": [
+				20514,
+				21114,
+				11299
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "H",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 18.360516,
+			"WorldPosition": {
+				"X": -42.763462,
+				"Y": 0.19222821,
+				"Z": 0.8108651
+			},
+			"RelPosition": {
+				"X": -0.13049665,
+				"Y": -0.10320316,
+				"Z": 0.9882789
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 32.481453,
+			"WorldPosition": {
+				"X": -64.82497,
+				"Y": 0.3186916,
+				"Z": 19.35526
+			},
+			"RelPosition": {
+				"X": -0.64401746,
+				"Y": 0.054056816,
+				"Z": 0.55583465
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 13.540029,
+			"WorldPosition": {
+				"X": 22.146221,
+				"Y": 0.3174578,
+				"Z": 18.287922
+			},
+			"RelPosition": {
+				"X": 0.34977105,
+				"Y": 0.04453849,
+				"Z": 0.89743817
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 0.0012857361,
+			"WorldPosition": {
+				"X": 22.303598,
+				"Y": 0.3191938,
+				"Z": 18.17345
+			},
+			"RelPosition": {
+				"X": 0.36053437,
+				"Y": 0.04613193,
+				"Z": 0.88550943
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 45.829662,
+			"WorldPosition": {
+				"X": -66.064125,
+				"Y": 0.044313826,
+				"Z": 17.913454
+			},
+			"RelPosition": {
+				"X": -0.6047671,
+				"Y": -0.23686025,
+				"Z": 0.6223816
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 4.824531,
+			"WorldPosition": {
+				"X": -48.502747,
+				"Y": 0.063848145,
+				"Z": 44.10455
+			},
+			"RelPosition": {
+				"X": 0.72237927,
+				"Y": -0.24754791,
+				"Z": -0.62446016
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "ZhonyC",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198177899721",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 11.634342,
+			"WorldPosition": {
+				"X": -25.92844,
+				"Y": 0.01359816,
+				"Z": 21.426788
+			},
+			"RelPosition": {
+				"X": -0.040242136,
+				"Y": -0.25290868,
+				"Z": 0.9911634
+			}
+		}
+	]
+}
